@@ -1,1 +1,1 @@
-Client app
+Client app on how to create a client app for a REST API
